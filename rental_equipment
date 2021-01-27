@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rental Equipments..</title>
+    <style>
+        .container{
+            display: grid;
+            grid-template-columns: 112px 112px 112px;
+            grid-gap: 1rem;
+            justify-content: center;
+        }
+        .btn{
+            border-radius: 10px;
+            background-color: crimson;
+            padding: 22px;
+            border: 2px solid black;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <button id="btn-1" class="btn">A,B and C xx days</button>
+        <button id="btn-2" class="btn">A,B and C xx days</button>
+        <button id="btn-3" class="btn">A,B and C xx days</button>
+        <button id="btn-4" class="btn">A,B and C xx days</button>
+        <button id="btn-5" class="btn">A,B and C xx days</button>
+        <button id="btn-6" class="btn">A,B and C xx days</button>
+        <button id="btn-7" class="btn">A,B and C xx days</button>
+        <button id="btn-8" class="btn">A,B and C xx days</button>
+        <button id="btn-9" class="btn">A,B and C xx days</button>
+        <button id="btn-10" class="btn">A,B and C xx days</button>
+        <button id="btn-11" class="btn">A,B and C xx days</button>
+        <button id="btn-12" class="btn">A,B and C xx days</button>
+     
+    </div> 
+</body>
+</html>
